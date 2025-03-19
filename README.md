@@ -1,4 +1,5 @@
 # farmmon_flutter
+https://www.dropbox.com/s/ry2ijj15prj0r8m/%EC%A7%84%EC%A7%9C%EC%93%B0%EB%8A%94%20%EC%8B%A4%EB%AC%B4%EC%97%91%EC%85%80%20%EC%98%88%EC%A0%9C%ED%8C%8C%EC%9D%BC.zip?dl=1
 
 배포중: https://github.com/jeffreyshin/farmmon_flutter/releases/download/v.0.5.0/app-release.apk
 
